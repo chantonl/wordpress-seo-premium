@@ -1,0 +1,20 @@
+{
+    "name": "chantonl/wordpress-seo-premium",
+    "description": "",
+    "keywords": [
+        "wordpress",
+        "plugin"
+    ],
+    "homepage": "https://github.com/chantonl/wordpress-seo-premium",
+    "authors": [
+        {
+            "name": "Team Yoast",
+            "email": "support@yoast.com",
+            "homepage": "https://yoast.com"
+        }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+        "php": ">=5.6"
+    }
+}
